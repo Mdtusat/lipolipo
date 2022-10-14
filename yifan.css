@@ -1,0 +1,19 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: red;
+}
+h1{
+  text-align:center;
+  color:#ffffff;
+  margin: 0;
+}
+p{
+  text-align: center;
+}
+input{
+margin-left: 50px;
+}
+label{
+  margin:50px;
+}
